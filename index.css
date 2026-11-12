@@ -1,0 +1,25 @@
+body {
+    background: rgba(19, 17, 77, 0.966);
+    color: white;
+}
+
+.container {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.home {
+    margin-right: 100px;
+}
+
+.score {
+    background: black;
+    padding: 40px 60px;
+    font-size: 50px;
+}
+
+.reset {
+    display: block;
+}
